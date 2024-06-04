@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>Coffe Delivery</h1>
+    <h1>Coffe Delivery Inicial</h1>
   )
 }
 
